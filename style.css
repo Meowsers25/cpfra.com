@@ -1,0 +1,29 @@
+.header {
+  border: 6px solid red;
+  text-align: center;
+}
+
+.forms {
+  border: 6px solid blue;
+  text-align: center;
+}
+
+.passed-away {
+  border: 6px solid black;
+  text-align: center;
+}
+
+.recent-news {
+  border: 6px solid yellow;
+  text-align: center;
+}
+
+.board-members {
+  border: 6px solid green;
+  text-align: center;
+}
+
+.footer {
+  border: 6px solid red;
+  text-align: center;
+}
